@@ -24,15 +24,3 @@ app.listen(process.env.port, async () => {
 		console.log(err);
 	}
 });
-
-/**
- {
-  "title":"go Lang",
-  "body":"new note added"
-}
-
-{  
-"email":"p@gmail.com",
-"password":"1234"
-}
- */
